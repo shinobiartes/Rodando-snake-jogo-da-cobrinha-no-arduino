@@ -1,7 +1,7 @@
-# 🚀 [Rodando Asteroid com ESP32]
+# 🚀 [Rodando Snake no ARduino]
 
 ## 📸 SNAKE NO ARDUINO
-![Menu](capa_snake.jpg)
+![Menu](snake.jpg)
 
 ## 📸 Circuito e Montagem
 ![Esquema do Projeto](snake2.jpg)
@@ -13,7 +13,7 @@ Este repositório contém todos os arquivos necessários para replicar o projeto
 
 ## 📺 Assista ao Vídeo do Projeto
 
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/nPQnve32v9o)
+[![Assista no YouTube]([https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/nPQnve32v9o](https://youtu.be/8RQEe46FGrY))
 
 ---
 
